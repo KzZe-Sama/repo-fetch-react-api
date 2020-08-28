@@ -1,0 +1,21 @@
+.sidebar-div
+{   
+    
+    height: 100vh !important;
+    margin :0px !important;
+    border:0px!important;
+    width: 20vw;
+}
+ul{
+    margin-right: 40px;
+    list-style: none;
+}
+li{
+    font-size: 18px;
+    margin-top: 10px ;
+    
+    
+}
+.white-text{
+    color: white !important;
+}
